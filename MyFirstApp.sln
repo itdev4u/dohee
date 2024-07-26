@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstApp", "MyFirstApp\MyFirstApp.csproj", "{7E52522E-12DD-4015-8A91-0302743DFCD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstApp", "MyFirstApp\MyFirstApp.csproj", "{7E52522E-12DD-4015-8A91-0302743DFCD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadBook.CsharpBasic.Chapter01", "RoadBook.CsharpBasic.Chapter01\RoadBook.CsharpBasic.Chapter01.csproj", "{DE2B9071-596E-4F0E-85F6-B1F9C9832A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoadBook.CsharpBasic.Chapter01", "RoadBook.CsharpBasic.Chapter01\RoadBook.CsharpBasic.Chapter01.csproj", "{DE2B9071-596E-4F0E-85F6-B1F9C9832A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadBook.CsharpBasic.Chapter02", "RoadBook.CsharpBasic.Chapter02\RoadBook.CsharpBasic.Chapter02.csproj", "{D06215F6-3DA7-4ACC-ABC8-BD31DAF7B8EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DE2B9071-596E-4F0E-85F6-B1F9C9832A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE2B9071-596E-4F0E-85F6-B1F9C9832A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE2B9071-596E-4F0E-85F6-B1F9C9832A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06215F6-3DA7-4ACC-ABC8-BD31DAF7B8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06215F6-3DA7-4ACC-ABC8-BD31DAF7B8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06215F6-3DA7-4ACC-ABC8-BD31DAF7B8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06215F6-3DA7-4ACC-ABC8-BD31DAF7B8EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
